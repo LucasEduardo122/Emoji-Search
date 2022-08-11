@@ -1,0 +1,14 @@
+.wrapper {
+    width: 100%;
+    heigth: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.line-list {
+    border-bottom: 1px solid #000;
+    margin-left: -40px;
+    padding: 10px;
+}

@@ -1,0 +1,19 @@
+.initial {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputSearch {
+    width: 100%;
+    max-width: 100%;
+}
+
+.inputSearch input {
+    width: 100%;
+    padding-bottom: 8px;
+    maring: 5px;
+    border-radius: 8px;
+    border-color: 1px solid gray;
+}
